@@ -1,0 +1,8 @@
+\\8)f_{(x)}=\sqrt{x^3-x}
+\\\\f'_{(x)}=\lim_{\Delta x\rightarrow0}\dfrac{\sqrt{(x+\Delta x)^3-(x+\Delta x)}-\sqrt{x^3-x}}{\Delta x}
+\\\\f'_{(x)}=\lim_{\Delta x\rightarrow0}\dfrac{\sqrt{x^3+3x^2\Delta x+3x\Delta x^2+\Delta x^3-x-\Delta x}-\sqrt{x^3-x}}{\Delta x}\cdot\left(\dfrac{\sqrt{x^3+3x^2\Delta x+3x\Delta x^2+\Delta x^3-x-\Delta x}+\sqrt{x^3-x}}{\sqrt{x^3+3x^2\Delta x+3x\Delta x^2+\Delta x^3-x-\Delta x}+\sqrt{x^3-x}}\right)
+\\\\f'_{(x)}=\lim_{\Delta x\rightarrow0}\dfrac{\sqrt{x^3+3x^2\Delta x+3x\Delta x^2+\Delta x^3-x-\Delta x}^2-\sqrt{x^3-x}^2}{\Delta x(\sqrt{x^3+3x^2\Delta x+3x\Delta x^2+\Delta x^3-x-\Delta x}+\sqrt{x^3-x})}
+\\\\f'_{(x)}=\lim_{\Delta x\rightarrow0}\dfrac{\cancel{x^3}+3x^2\Delta x+3x\Delta x^2+\Delta x^3\cancel{-x}-\Delta x\cancel{-x^3}\cancel{+x}}{\Delta x(\sqrt{x^3+x^2\Delta x+x\Delta x^2+\Delta x^3-x-\Delta x}+\sqrt{x^3-x})}
+\\\\f'_{(x)}=\lim_{\Delta x\rightarrow0}\dfrac{\cancel{\Delta x}(3x^2+3x\Delta x+\Delta x^2-1)}{\cancel{\Delta x}(\sqrt{x^3+x^2\Delta x+x\Delta x^2+\Delta x^3-x-\Delta x}+\sqrt{x^3-x})}
+\\\\f'_{(x)}=\dfrac{3x^2+\cancel{3x\cdot0}+\cancel{0^2}-1}{\sqrt{x^3+\cancel{x^2\cdot0}+\cancel{x\cdot0^2}+\cancel{0^3}-x-\cancel0}+\sqrt{x^3-x}}
+\\\\f'_{(x)}=\dfrac{3x^2-1}{2\sqrt{x^3-x}}
