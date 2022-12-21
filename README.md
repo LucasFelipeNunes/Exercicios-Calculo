@@ -8,6 +8,8 @@ Está lista contém exercícios feitos para treinamento do cálculo de conceitos
 Está lista contém exercícios feitos para treinamento do cálculo de derivadas usando a sua definição, do cálculo do limite da distância entre dois pontos em um gráfico.
 ## [Cálculo Diferencial pelas Regras de Derivação](ExercíciosLista3)
 Esta lista contém exercícios feitos para treinamento de diversas regras de derivação, como derivada de equações de seno, cosseno, tangente, potenciação, exponencial e logaritmo neperiano de uma icógnita, derivada da soma, subtração, multiplicação e divisão de dois termos, derivada da multiplicação de uma constante por uma icógnita e regra da cadeia.
+## [Simulado de Cálculo Diferencial pelas Regras de Derivação](Simulado3)
+Este simulado contém exercícios referentes também a matéria de cálculo diferencial pelas regras de derivação.
 ## [Cálculo Integral (em construção)](ExerciciosIntegrais)
 Esta lista contém exercícios feitos para treinamento de conceitos introdutórios ao cálculo integral, como integrais definidas e indefinidas, primitivas e regras básicas de integração.
 ## [Exercícios de Reposição](ExerciciosReposicao)
